@@ -31,21 +31,13 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| โปรเจกต์ | รายละเอียดสั้น ๆ | Tech Stack |
-| :--- | :--- | :--- |
-| **[ชื่อโปรเจกต์ 1](https://github.com/YOUR_USERNAME/repo-1)** | ระบบจัดการงานหรือแอปพลิเคชันที่ช่วยแก้ปัญหา... | Next.js, PostgreSQL |
-| **[ชื่อโปรเจกต์ 2](https://github.com/YOUR_USERNAME/repo-2)** | เครื่องมือ CLI หรือ API สำหรับ... | Python, FastAPI |
-
----
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phudis)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phudis)](https://github.com/phudis/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phudis&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phudis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phudis&show_icons=true)
 ---
 
 ### 📫 ช่องทางติดต่อ (Connect with Me)
