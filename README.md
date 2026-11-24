@@ -37,7 +37,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phudis)](https://github.com/phudis/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phudis&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phudis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phudis&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 ---
 
 ### 📫 ช่องทางติดต่อ (Connect with Me)
